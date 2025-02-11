@@ -15,8 +15,8 @@ It can span multiple lines.
 -->
 
 | project name     | full title                         | publish date |  author  | university name  | paper linke  | github repo |
-|------------|-------------------------------------|---------|
-| **Bold**   | Makes text bold                    | **bold** |
-| *Italic*   | Makes text italic                  | *italic* |
-| `Code`     | Inline code syntax                 | `code` |
-| [Link](#)  | Adds a clickable link              | [GitHub](https://github.com) |
+|------------|-------------------------------------|---------|---------|---------|---------|---------|
+| **Bold**   | Makes text bold                    | **bold** |---------|---------|---------|---------|
+| *Italic*   | Makes text italic                  | *italic* |---------|---------|---------|---------|
+| `Code`     | Inline code syntax                 | `code` |---------|---------|---------|---------|
+| [Link](#)  | Adds a clickable link              | [GitHub](https://github.com) |---------|---------|---------|---------|
