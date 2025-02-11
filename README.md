@@ -14,7 +14,7 @@ It can span multiple lines.
 
 -->
 
-| project name     | full title                         | publish date |  author  | university name  | paper linke  | github repo |
+| project name     | full title                         | publish date |  author  | university name  | paper link  | github repo |
 |------------|-------------------------------------|---------|---------|---------|---------|---------|
 | ---------   | --------- | --------- |---------|---------|---------|---------|
 | ---------  |--------- | --------- |---------|---------|---------|---------|
