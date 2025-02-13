@@ -14,8 +14,8 @@ It can span multiple lines.
 
 -->
 
-| project name     | full title                         | publish date |  author  | university name  | paper link  | github repo |
-|------------|-------------------------------------|---------|---------|---------|---------|---------|
+| project name     | full title                         | publish date |  author  | university/organisation name  | paper link  | github repo |
+|Spikeformer V2| Join the High Accuracy Club on ImageNet with an SNN Ticket|Jan 2024|Zhaokun Zhou et al|Peking University/China|Link [https://arxiv.org/abs/2401.02020]|GitHub [https://github.com/ZK-Zhou/spikformer]|
 | ---------   | --------- | --------- |---------|---------|---------|---------|
 | ---------  |--------- | --------- |---------|---------|---------|---------|
 | ---------   | --------- |--------- |---------|---------|---------|---------|
